@@ -38,8 +38,11 @@ This project was developed as part of the Software Maintenance and Configuration
 Old Name------------ > New Name
 
 1- addStudent()------> addNewStudent()
-2- displayStudents()-----> showStudentList()------> searchStudentById()
+
+2- displayStudents()-----> showStudentList() 
+
 3- searchStudentById()-------> findStudentById()
+
 4- removeStudentById()-----> deleteStudentById()
 
 
