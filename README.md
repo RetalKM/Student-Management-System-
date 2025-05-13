@@ -31,21 +31,6 @@ This project was developed as part of the Software Maintenance and Configuration
 	• Includes helper method studentExists()
 	• Updated menu and user feedback system
 
-# Refactoring Summary
-
-# a. Method Renaming for Clarity
-
-Old Name------------ > New Name
-
-1- addStudent()------> addNewStudent()
-
-2- displayStudents()-----> showStudentList() 
-
-3- searchStudentById()-------> findStudentById()
-
-4- removeStudentById()-----> deleteStudentById()
-
-
  # Technologies Used
 	• Java 8+
 	• Doxygen for documentation
