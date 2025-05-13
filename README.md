@@ -37,10 +37,10 @@ This project was developed as part of the Software Maintenance and Configuration
 
 Old Name------------ > New Name
 
-addStudent()------> addNewStudent()
-displayStudents()-----> showStudentList()------> searchStudentById()
-searchStudentById()-------> findStudentById()
-removeStudentById()-----> deleteStudentById()
+1- addStudent()------> addNewStudent()
+2- displayStudents()-----> showStudentList()------> searchStudentById()
+3- searchStudentById()-------> findStudentById()
+4- removeStudentById()-----> deleteStudentById()
 
 
  # Technologies Used
