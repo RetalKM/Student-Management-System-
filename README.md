@@ -49,17 +49,6 @@ removeStudentById()-----> deleteStudentById()
 	• Understand for UML modeling
 	• Command-line Interface (CLI)
 
- # How to Run
-	1. Clone the repository :
- git clone https://github.com/YOUR_USERNAME/StudentManagementSystem.git
-cd StudentManagementSystem
-
-	2. Compile the code
- javac *.java
-
- 	3. Run the application
-  java StudentManagementSystem
-
 
  
 
